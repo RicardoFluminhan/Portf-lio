@@ -9,7 +9,7 @@ Meu nome é Ricardo de Oliveira Fluminhan, tenho 16 anos, moro em Presidente Pru
 
 Atualmente estudo análise e desenvolvimento de sistemas no ✨SENAI✨ e aulas de manhã no ✨SESI✨, possuo boa média escolar, já fiz o cabeamento de uma das salas do SENAI, fui membro da equipe de robótica da minha escola-- e chegamos na fase internacional-- o que foi uma experiência inesquecível, faço aulas de inglês particular online e na escola da Cultura Inglesa! 
 
-Demonstro interesse por jogos online, esportes, treinos físicos e astrologia, além disso gosto de desenvolver sites com a linguagem de marcação "html" e programar nas linguagens Python e JavaScript! 
+Demonstro interesse por jogos online, esportes, treinos físicos e astronomia, além disso gosto de desenvolver sites com a linguagem de marcação "html" e programar nas linguagens Python e JavaScript! 
 
  
 
@@ -23,7 +23,9 @@ Demonstro interesse por jogos online, esportes, treinos físicos e astrologia, a
 
 - Sebrae (empreendedorismo) 🤑; 
 
-- Proerd 🚭. 
+- Proerd 🚭;
+
+- Curso de salva-vidas mirim 🏊.
 
  
 
